@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # CompTIA Security+ Question Generator
 A simple Python script that generates multiple-choice questions at CompTIA Security+ level (SY0-701).
 I felt like rapid fire questions were a good way to prepare.
